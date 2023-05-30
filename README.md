@@ -12,7 +12,7 @@ pip install opencv-python
 Installation
 Clone this repository to your local machine using the following command:
 
-#Contributions
+# Contributions
 Contributions to the AI Virtual Mouse project are welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please submit a pull request on the GitHub repository.
 
 # License
