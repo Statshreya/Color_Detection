@@ -5,12 +5,16 @@ This is a Python project that allows you to detect and extract the dominant colo
 # Prerequisites
 Before running the project, make sure you have the following prerequisites installed:
 
-Python 3.x: You can download Python from the official website: https://www.python.org/downloads/
-OpenCV: Install OpenCV using pip by running the following command:
+ >>Python 3.x: You can download Python from the official website: https://www.python.org/downloads/
+
+>>OpenCV: Install OpenCV using pip by running the following command:
 Copy code
 pip install opencv-python
 Installation
 Clone this repository to your local machine using the following command:
+
+#Contributions
+Contributions to the AI Virtual Mouse project are welcome! If you encounter any issues, have suggestions for improvements, or would like to add new features, please submit a pull request on the GitHub repository.
 
 # License
 This project is licensed under the MIT License.
